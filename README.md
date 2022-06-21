@@ -4,7 +4,8 @@ This program will take place in London during July 2022
 
 This site links to the academic content for the program, comprising 
 
-* IS3500 - [Information System Design and Development]([https://gortonator.github.io/London22/IS3500])
+* IS3500 - [Information System Design and Development](https://gortonator.github.io/London22/IS3500)
+* IS3500 - [Information System Design and Development](https://github.com/gortonator/London22/IS3500)
 * CS4992 - Directed Study
 
 
